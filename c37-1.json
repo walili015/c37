@@ -1,4 +1,4 @@
-{
+  {
   "AdsController": {
     "adNetwork": "unity",
     "admobBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -9,11 +9,11 @@
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
-    "IMG1_URL": "https://c28.netlify.app/c28-1.png",
-    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXX",
-    "modeads": false,
-    "IMG2_URL": "https://c28.netlify.app/c28-1.png",
-    "TEXT2_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "IMG1_URL": "https://c37.netlify.app/c37-2.png",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.grizzylemmings.grizzygames.kidsgame",
+    "modeads": true,
+    "IMG2_URL": "https://c37.netlify.app/c37-3.png",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.grizzybear.creativeaventure.kidsgame",
     "ratingActive": true
   }
 }
