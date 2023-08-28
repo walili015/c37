@@ -14,7 +14,7 @@
     "modeads": true,
     "IMG2_URL": "https://c37.netlify.app/c37-1.png",
     "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.Grizzythelemmings.subway.rungame",
-    "appsuspand": "true",
+    "appsuspand": "false",
     "appURLsuspand": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
     "ratingActive": true
   }
