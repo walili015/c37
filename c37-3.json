@@ -5,22 +5,17 @@
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
-
     "admobBanner": "",
     "admobInterstitial": "",
     "applovinBanner": "",
     "applovinInterstitial": "",
-
-
     "modeads": true,
     "IMG1_URL": "https://c37.netlify.app/c37-4.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.grizzychasing.gamekids.thelemmings",
     "IMG2_URL": "https://c37.netlify.app/c37-1.png",
     "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.Grizzythelemmings.subway.rungame",
-
     "appsuspand": "false",
     "appURLsuspand": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
-
     "ratingActive": true
   }
 }
