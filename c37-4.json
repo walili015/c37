@@ -1,26 +1,21 @@
 {
   "AdsController": {
     "adNetwork": "unity",
-    "unityGameId": "999000000",
+    "unityGameId": "5401619",
     "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
-
     "admobBanner": "",
     "admobInterstitial": "",
     "applovinBanner": "",
     "applovinInterstitial": "",
-
-
     "modeads": true,
     "IMG1_URL": "https://c37.netlify.app/c37-2.png",
     "TEXT1_URL": "https://play.google.com/store/apps/details?id=com.grizzylemmings.grizzygames.kidsgame",
     "IMG2_URL": "https://c37.netlify.app/c37-3.png",
     "TEXT2_URL": "https://play.google.com/store/apps/details?id=com.grizzybear.creativeaventure.kidsgame",
-
     "appsuspand": "false",
     "appURLsuspand": "https://play.google.com/store/apps/details?id=XXXXXXXXXXX",
-
     "ratingActive": true
   }
 }
